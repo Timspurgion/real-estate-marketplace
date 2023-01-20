@@ -14,7 +14,7 @@ const Banner = () => {
           </h1>
           <p className='max-w-[480px] mb-8'>
             Powerful, self-serve product and growth analytics to help you
-            convert, engage, and retain more. A one marketplace for real estate, property owner, agent, and for builders.
+            convert, engage, and retain more. A one marketplace for real estate, property owner, agent, and for builders...
           </p>
         </div>
         <div className='hidden flex-1 lg:flex justify-end items-end'>
